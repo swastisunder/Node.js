@@ -1,0 +1,12 @@
+1772635528654: new req receive on / from ::1
+1772635528771: new req receive on /favicon.ico from ::1
+1772635729652: new req receive on / from ::1
+1772635729768: new req receive on /favicon.ico from ::1
+1772635774854: new req receive on /about?name=%27ssb%27 from ::1
+1772635774888: new req receive on /favicon.ico from ::1
+1772635828047: new req receive on /about?name=%27ssb%27 from ::1
+1772635828091: new req receive on /favicon.ico from ::1
+1772636005940: new req receive on /about?name=%27ssb%27 from ::1
+1772636005970: new req receive on /favicon.ico from ::1
+1772636009990: new req receive on /about from ::1
+1772636010016: new req receive on /favicon.ico from ::1
