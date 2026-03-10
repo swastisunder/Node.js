@@ -1,0 +1,27 @@
+REST API - JSON
+
+GET /users - Get all users
+GET /users/:id - Get the user with id
+
+POST /users - Create new user
+PATCH /users/:id - Edit the user with id
+DELETE /users/:id - Delete the user with id
+
+
+----------------------------------------------------
+
+1. npm init -y +
+2. Create index.js +
+3. install express +
+4. ceate a start script +
+5. express boilerplate code +
+6. get data from mockaroo +
+7. require the users in index.js +
+8. create a GET /users route which return users in json format +
+9. create hybrid server like if /users then render form but if /api/users then send the users data +
+10. create a GET/users/:id route which retun the user with a perticular id +
+11. create a POST/users route which create a new user +
+12. create a PATCH/users/:id route which edit a user with a perticular id +
+12. create a DELETE/users/:id route which delete a user with a perticular id +
+13. create a app.route which group the same urls with different methods
+14. 
